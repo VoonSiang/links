@@ -77,7 +77,7 @@
         @endif
         <div class="content">
             <div class="title m-b-md">
-                CHEESE CAKE NICE
+                Xue Hua Piao Piao
             </div>
             <div class="links">
                 @foreach ($links as $link)
