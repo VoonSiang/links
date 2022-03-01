@@ -77,7 +77,7 @@
         @endif
         <div class="content">
             <div class="title m-b-md">
-                Laravel
+                CHEESE CAKE NICE
             </div>
             <div class="links">
                 @foreach ($links as $link)
